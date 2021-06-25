@@ -1,0 +1,15 @@
+/Users/alexsherman/Projects/CVS_String/CVS_String/bin/Debug/net5.0/CVS_String.deps.json
+/Users/alexsherman/Projects/CVS_String/CVS_String/bin/Debug/net5.0/CVS_String.runtimeconfig.json
+/Users/alexsherman/Projects/CVS_String/CVS_String/bin/Debug/net5.0/CVS_String.runtimeconfig.dev.json
+/Users/alexsherman/Projects/CVS_String/CVS_String/bin/Debug/net5.0/CVS_String.dll
+/Users/alexsherman/Projects/CVS_String/CVS_String/bin/Debug/net5.0/ref/CVS_String.dll
+/Users/alexsherman/Projects/CVS_String/CVS_String/bin/Debug/net5.0/CVS_String.pdb
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.csproj.AssemblyReference.cache
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.AssemblyInfoInputs.cache
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.AssemblyInfo.cs
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.csproj.CoreCompileInputs.cache
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.dll
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/ref/CVS_String.dll
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.pdb
+/Users/alexsherman/Projects/CVS_String/CVS_String/obj/Debug/net5.0/CVS_String.genruntimeconfig.cache
